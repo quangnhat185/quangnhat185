@@ -25,11 +25,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="80" height="80"/>           
 </p>
 
-### 📫 How to reach me:
+### 📫 How to reach me: 
 <p align="center">
-  <a href="https://www.linkedin.com/in/quangnguyen185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"/></a>
+  <a href="https://www.linkedin.com/in/quangnguyen185"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
 </p>
-
 
 
 <!--
