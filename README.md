@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🔭 I’m a Machine Learning and Robotics enthusiast. Projects that I've done in the past can be found [here](https://quangnhat185.github.io/)!
+### I’m a Machine Learning and Robotics enthusiast. Projects that I've done in the past can be found [here](https://quangnhat185.github.io/)!
 
 <br>
 <p align="center">
