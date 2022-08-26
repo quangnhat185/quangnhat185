@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### 🔭 I’m a Machine Learning and Robotics enthusiast. Projects that I've done in the past can be found [here](https://quangnhat185.github.io/)!
+
+<br>
 <p align="center">
   <a href="https://github.com/quangnhat185/quangnhat185"><img src="https://github-readme-stats.vercel.app/api?username=quangnhat185&theme=blue-green&show_icons=true" alt="Repo Stats"></a>
 </p>
@@ -19,11 +22,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" height="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="80" height="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="80" height="80"/>
-
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="80" height="80"/>           
 </p>
+
+### 📫 How to reach me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/quangnguyen185"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60"/></a>
+</p>
+
 
 
 <!--
