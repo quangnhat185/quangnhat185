@@ -4,10 +4,11 @@
   <a href="https://github.com/quangnhat185/quangnhat185"><img src="https://github-readme-stats.vercel.app/api?username=quangnhat185&theme=blue-green&show_icons=true" alt="Repo Stats"></a>
 </p>
 
+<!-- Most used languages
 <p align="center">
   <a href="https://github.com/quangnhat185/quangnhat185"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangnhat185&layout=compact&theme=radical&include_all_commits=true" alt="Top Langs on Github"></a>
 </p>
-
+-->
 
 ### 🛠 &nbsp;Languages and Tools :
 
